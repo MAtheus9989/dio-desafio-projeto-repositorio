@@ -1,0 +1,42 @@
+HTML é uma linguagem de marcação utilizada na construção de páginas 
+na web. Documentos HTML podem ser interpretados por navegadores.
+
+CSS Cascading Style Sheets é um mecanismo para adiconar estilos a um
+documento web. O código CSS pode ser aplicado diretamente nas tags ou
+ficar contido dentro das tags <style>.
+
+JavaScript é uma linguagem de programação interpretada estruturada, 
+de script alto nivel com tipagem dinâmica fraca e multiparadigma.
+
+TAG é a menor unidade de marcação, e cada elemento tem uma 
+especificação e o seu uso dve ser de acordo com a finalidade
+do elemnento .
+as TAGS estão inseridas entre o sinal(<) menor que e o maior que (>).
+
+<!DOCTYPE> uma declaração, uma instrução para o navegador sobre qual
+a versão HTML ou qual tippo de arquivo qua a pagina foi escrita, deve
+ser sempre ecrita na primeira linha da marcação.
+
+Elmento <head> atua como um container para todo o conteúdo da página 
+HTML que não é visivel para os visitantes do site.Pode só existir 
+um elemento <head> por documneto HTML.
+
+A seção <body> de um documento detina-se a conter os elmentos desgnados 
+a marcar os conteúdos que serão renderizados pelo navegador.Existe Apenas
+um componete <body> por documento HTML.
+
+algumas Tags usadas nos Programas:
+
+<h1>...<h6> - Cabeçalho, seria do mais importante no site a o menos importante.
+<p> - Browser adicionam automaticamente um espaço (Margem) antes e depois de cada <p> elemento.
+<br> - Serve para a quebra de linha de textos.
+<img> - A tag <img> cria um espaço de retenção para a imagem referenciada.
+<a> - A tag <a> vai criar um vinculo (hiperlink) com outro documento.
+se a tag não tiver (href), será apenas um espaço reservado para um hiperlink.
+<ol> - vai fazer uma lista ordenada.
+<ul> - Para lista nâo ordenadas.
+<div> - Vai definir uma divisão ou uma seção em um documento HTML.
+<hr> - degine a quebra de tema em um documento HTML.
+<form> - É usado para coletar a entrada de dados em um formulário.
+
+
