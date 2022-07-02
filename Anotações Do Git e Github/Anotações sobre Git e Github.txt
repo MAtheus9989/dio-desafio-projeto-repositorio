@@ -1,0 +1,32 @@
+Anotações Sobre Git/Github
+
+Primeiramnete você vai ter que instalar o GIT
+Link Para download:https://git-scm.com/
+Também precisara ser feito um cadastro no Github 
+Link Para Acessar o site e fazer o login:https://circleci.com/integrations/github/
+
+Github alem de ser um repositorio remoto onde você pode guarda seus codigos 
+é também um rede social onde você mostrar para as pessoas como você trabalha
+com o seu codigos em como você está se desnvolvendo como pogramador,compartilhar
+seus projetos com o mundo todo, podendo alcançar ate contratantes de alguamas 
+empresas.
+Portanto vamos compartilhar todos nosso Projetos nele.
+
+No Git sera vamos trabalhar com um aplicativo chamada Git Bash.
+Git Bash é uma para ambientes do Microsft Windows que oefrece 
+a camada de emulação para a experiência de linha de comando
+é um aplicativo terminal usado como interface em sistemas 
+operacinais por meio de comandos gravados.
+
+alguns comandos exibidos para facilitar o entendimento :
+
+git mkdir - usado para criar novas pasta no terminal.
+git .. - para volta a uma pasta anterior.
+cd + nome da pasta/ - serve para entra na pasta em que você está especificando. 
+git init - serve para criar uma pasta (.git) dentro de uma pasta.
+ls - serve para mostrar as pastas quem tem na pasta atual.
+ctrl + L - serve para limpar o terminal 
+git clone - vai servir para copiar aquela pasta que está no seu Github e passar para seu ambiente local.
+git status - serve para verificar se não tem nada de errado com arquivo para envio.
+git add. - serve para o (Git) entender que queremos enviar uma pasta para o (Github).
+git commit -m - vai criar um (commit) para o arquivo especificado.
